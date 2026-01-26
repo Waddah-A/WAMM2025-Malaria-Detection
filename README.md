@@ -179,11 +179,12 @@ WAMM2025/
 
 If you use this work or any of the datasets, please cite appropriately:
 
-
+```
 
 ### Datasets
 
 **NIH Malaria Dataset (United States)**
+- Source: https://data.lhncbc.nlm.nih.gov/public/Malaria/
 ```bibtex
 @article{rajaraman2018pretrained,
   title={Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images},
@@ -198,6 +199,7 @@ If you use this work or any of the datasets, please cite appropriately:
 ```
 
 **MP-IDB: Malaria Parasite Image Database**
+- Source: https://github.com/andrealoddo/MP-IDB-The-Malaria-Parasite-Image-Database-for-Image-Processing-and-Analysis
 ```bibtex
 @inproceedings{loddo2019mpidb,
   title={MP-IDB: The Malaria Parasite Image Database for Image Processing and Analysis},
@@ -213,6 +215,7 @@ If you use this work or any of the datasets, please cite appropriately:
 ```
 
 **Broad Institute BBBC041 Dataset**
+- Source: https://www.kaggle.com/datasets/kmader/malaria-bounding-boxes
 ```bibtex
 @inproceedings{hung2017applying,
   title={Applying Faster R-CNN for Object Detection on Malaria Images},
@@ -225,6 +228,7 @@ If you use this work or any of the datasets, please cite appropriately:
 ```
 
 **Tek et al. Dataset (655 images with bounding boxes)**
+- Source: https://github.com/tobsecret/Awesome_Malaria_Parasite_Imaging_Datasets
 ```bibtex
 @article{tek2010parasite,
   title={Parasite detection and identification for automated thin blood film malaria diagnosis},
@@ -240,6 +244,7 @@ If you use this work or any of the datasets, please cite appropriately:
 ```
 
 **Lacuna Malaria Dataset (Ghana & Uganda)**
+- Source: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VEADSE
 ```bibtex
 @article{nakasi2025dataset,
   title={A Dataset of Blood Slide Images for AI-based Diagnosis of Malaria},
@@ -254,6 +259,7 @@ If you use this work or any of the datasets, please cite appropriately:
 ```
 
 **Tanzania NM-AIST Dataset**
+- Source: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O2WVWA
 ```bibtex
 @article{lufyagila2024blood,
   title={Blood smear imagery dataset for malaria parasite detection: A case of Tanzania},
