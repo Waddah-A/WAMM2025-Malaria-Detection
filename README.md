@@ -175,24 +175,102 @@ WAMM2025/
 └── README.md
 ```
 
-## Citation
+## Citations
 
-If you use this code, please cite the relevant datasets:
+If you use this work or any of the datasets, please cite appropriately:
 
+### WAMM2025 Model
 ```bibtex
-@misc{nih_malaria,
-  title={Malaria Datasets},
-  author={NIH/NLM},
-  url={https://data.lhncbc.nlm.nih.gov/public/Malaria/}
+@misc{wamm2025,
+  title={WAMM2025: West African Malaria Model for Automated Detection},
+  author={[Your Name]},
+  year={2025},
+  url={https://github.com/Waddah-A/WAMM2025-Malaria-Detection}
 }
+```
 
-@article{lacuna_malaria,
-  title={Lacuna Malaria Dataset},
+### Datasets
+
+**NIH Malaria Dataset (United States)**
+```bibtex
+@article{rajaraman2018pretrained,
+  title={Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images},
+  author={Rajaraman, Sivaramakrishnan and Antani, Sameer K and Poostchi, Mahdieh and Silamut, Kamolrat and Hossain, Md A and Maude, Richard J and Jaeger, Stefan and Thoma, George R},
+  journal={PeerJ},
+  volume={6},
+  pages={e4568},
+  year={2018},
+  publisher={PeerJ Inc.},
+  doi={10.7717/peerj.4568}
+}
+```
+
+**MP-IDB: Malaria Parasite Image Database**
+```bibtex
+@inproceedings{loddo2019mpidb,
+  title={MP-IDB: The Malaria Parasite Image Database for Image Processing and Analysis},
+  author={Loddo, Andrea and Di Ruberto, Cecilia and Kocher, Michel and Prod'Hom, Guy},
+  booktitle={Processing and Analysis of Biomedical Information},
+  series={Lecture Notes in Computer Science},
+  volume={11379},
+  pages={57--65},
+  year={2019},
+  publisher={Springer International Publishing},
+  doi={10.1007/978-3-030-13835-6_7}
+}
+```
+
+**Broad Institute BBBC041 Dataset**
+```bibtex
+@inproceedings{hung2017applying,
+  title={Applying Faster R-CNN for Object Detection on Malaria Images},
+  author={Hung, Jane and Goodman, Allen and Lopes, Stefanie and Rangel, Gabriel and Ravel, Deepali and Costa, Fabio T M and Duraisingh, Manoj T and Marti, Matthias and Carpenter, Anne E},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  pages={808--813},
+  year={2017},
+  doi={10.1109/CVPRW.2017.112}
+}
+```
+
+**Tek et al. Dataset (655 images with bounding boxes)**
+```bibtex
+@article{tek2010parasite,
+  title={Parasite detection and identification for automated thin blood film malaria diagnosis},
+  author={Tek, F Boray and Dempster, Andrew G and Kale, Izzet},
+  journal={Computer Vision and Image Understanding},
+  volume={114},
+  number={1},
+  pages={21--32},
+  year={2010},
+  publisher={Elsevier},
+  doi={10.1016/j.cviu.2009.08.003}
+}
+```
+
+**Lacuna Malaria Dataset (Ghana & Uganda)**
+```bibtex
+@article{nakasi2025dataset,
+  title={A Dataset of Blood Slide Images for AI-based Diagnosis of Malaria},
+  author={Nakasi, Rose and Nabende, Joyce Nakatumba and Tusubira, Johnstone Friday and Bbosa, Robert and Mwebaze, Ernest and Quinn, John A},
+  journal={Data in Brief},
+  volume={58},
+  pages={111190},
+  year={2025},
+  publisher={Elsevier},
   doi={10.7910/DVN/VEADSE}
 }
+```
 
-@article{tanzania_malaria,
-  title={NM-AIST Tanzania Malaria Dataset},
+**Tanzania NM-AIST Dataset**
+```bibtex
+@article{lufyagila2024blood,
+  title={Blood smear imagery dataset for malaria parasite detection: A case of Tanzania},
+  author={Lufyagila, Beston and Mgawe, Bonny and Sam, Anael},
+  journal={Data in Brief},
+  volume={57},
+  pages={111169},
+  year={2024},
+  publisher={Elsevier},
   doi={10.7910/DVN/O2WVWA}
 }
 ```
