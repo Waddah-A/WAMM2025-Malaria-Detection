@@ -179,15 +179,7 @@ WAMM2025/
 
 If you use this work or any of the datasets, please cite appropriately:
 
-### WAMM2025 Model
-```bibtex
-@misc{wamm2025,
-  title={WAMM2025: West African Malaria Model for Automated Detection},
-  author={[Your Name]},
-  year={2025},
-  url={https://github.com/Waddah-A/WAMM2025-Malaria-Detection}
-}
-```
+
 
 ### Datasets
 
